@@ -1,3 +1,3 @@
 # degital-agency
 
-![degital-agency](/digital-agency-website-template .webp)
+![degital-agency](/digital-agency-website-template.webp)
